@@ -16,4 +16,4 @@ If the acknowledgement is not received, then the source will not send the next p
 
 **CHALLENGES FACED AND HOW DID I ADDRESSED IT:**
 Displaying N packets if N is too large
-If N is too large, it gets difficult displaying output so what i did was used string formatting. So we can get predefined columns to display my output.
+If N is too large, it gets difficult displaying output so what we did was used string formatting. So we can get predefined columns to display my output.
